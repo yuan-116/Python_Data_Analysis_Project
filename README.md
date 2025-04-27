@@ -94,7 +94,6 @@ I specifically led the analysis for **Research Question 2**, which focused on ex
   Analyzed the client's total spending across different card types:
   - Although credit cards were used more frequently, debit card spending remained significant.
   - This presents an opportunity to encourage greater credit card usage through targeted promotions.
-  - 
  <img width="500" alt="image" src="doc/bar_plot.png" />
 ---
 
