@@ -62,7 +62,7 @@ I specifically led the analysis for **Research Question 2**, which focused on ex
   ➔ **Findings:**  
   - Clients in the low credit limit group generally spent less.  
   - Medium and high limit groups showed higher spending, following an upward trend.
-
+![scatter_plot](doc/scatter_plot.png)
 ---
 
 #### 3. Outlier Detection and Deep Dive
@@ -85,12 +85,13 @@ I specifically led the analysis for **Research Question 2**, which focused on ex
   Visualized the client's annual spending trends:
   - Spending was consistently higher in **odd-numbered years** (e.g., 2011, 2013, 2015).
   - A notable spending drop occurred in 2019, potentially influenced by external events such as the COVID-19 pandemic.
+![yearly_line](doc/Line_chart.png)
 
 - **Card Type Usage Analysis**  
   Analyzed the client's total spending across different card types:
   - Although credit cards were used more frequently, debit card spending remained significant.
   - This presents an opportunity to encourage greater credit card usage through targeted promotions.
-
+![card_type_bar](doc/bar_plot.png)
 ---
 
 ## 📈 Business Insights (If Acting as a Credit Card Company)
