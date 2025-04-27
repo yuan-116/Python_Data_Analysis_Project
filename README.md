@@ -95,6 +95,7 @@ I specifically led the analysis for **Research Question 2**, which focused on ex
   - Although credit cards were used more frequently, debit card spending remained significant.
   - This presents an opportunity to encourage greater credit card usage through targeted promotions.
  <img width="500" alt="image" src="doc/bar_plot.png" />
+
 ---
 
 ## 📈 Business Insights (If Acting as a Credit Card Company)
