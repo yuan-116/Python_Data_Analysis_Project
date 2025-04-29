@@ -116,5 +116,3 @@ I specifically led the analysis for **Research Question 2**, which focused on ex
 - Client Segmentation
 
 ---
-
-📂 [Full Project Notebook Available]
