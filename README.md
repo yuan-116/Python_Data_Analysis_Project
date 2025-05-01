@@ -2,7 +2,7 @@
 
 # 💳 Credit Card Transactional Data Analysis | Python
 
-## 📚 Project Overview
+##  Project Overview
 
 
 This project analyzes credit card transaction behaviors using multiple datasets, including transaction histories, cardholder profiles, and fraud detection labels.
@@ -12,7 +12,7 @@ The goals of the project are:
 - Analyze the relationship between client credit limits and their spending behavior.
 - Investigate characteristics and patterns of fraudulent transactions.
 
-> 📌 **Note:**  
+> **Note:**  
 > This project was completed as part of a group effort.  
 > It covers a wide range of data analysis topics across multiple areas.  
 > Given the project's large scope, this README focuses mainly on the part I was responsible for
@@ -21,7 +21,7 @@ The goals of the project are:
 
 ---
 
-## 🧠 My Contribution: Credit Limit vs Spending Behavior Analysis
+## My Contribution: Credit Limit vs Spending Behavior Analysis
 
 I specifically led the analysis for **Research Question 2**, which focused on exploring how client spending behavior relates to their credit limits.
 
@@ -98,7 +98,7 @@ I specifically led the analysis for **Research Question 2**, which focused on ex
 
 ---
 
-## 📈 Business Insights (If Acting as a Credit Card Company)
+##  Business Insights (If Acting as a Credit Card Company)
 
 - The client represents a **high-value customer** with strong financial indicators.
 - She could be a good candidate for **targeted promotions** or **credit limit increases** to enhance loyalty.
@@ -107,7 +107,7 @@ I specifically led the analysis for **Research Question 2**, which focused on ex
 
 ---
 
-## 🛠 Tools and Technologies
+##  Tools and Technologies
 
 - Python (Pandas, Holoviews, Bokeh, Matplotlib)
 - Exploratory Data Analysis (EDA)
