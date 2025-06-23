@@ -5,7 +5,7 @@
 ##  Project Overview
 
 
-This project analyzes credit card transaction behaviors using multiple datasets, including transaction histories, cardholder profiles, and fraud detection labels.
+This project analyzes credit card transaction (1,000,000+) behaviors using multiple datasets, including transaction histories, cardholder profiles, and fraud detection labels.
 
 The goals of the project are:
 - Explore seasonal spending behavior across different card brands.
@@ -15,13 +15,13 @@ The goals of the project are:
 > **Note:**  
 > This project was completed as part of a group effort.  
 > It covers a wide range of data analysis topics across multiple areas.  
-> Given the project's large scope, this README focuses mainly on the part I was responsible for
+> Given the project's large scope, this README focuses on 
 — an in-depth analysis of the relationship between client credit limits and their spending behaviors — which I believe is particularly meaningful and demonstrates strong business insight.
 
 
 ---
 
-## My Contribution: Credit Limit vs Spending Behavior Analysis
+## Credit Limit vs Spending Behavior Analysis
 
 I specifically led the analysis for **Research Question 2**, which focused on exploring how client spending behavior relates to their credit limits.
 
